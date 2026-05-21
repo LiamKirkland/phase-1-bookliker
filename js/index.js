@@ -86,7 +86,7 @@ function toggleBookLike(bookId, userList, likeBtn) {
           })
         })
         .then(res=>res.json())
-        .then(getBook(bookId))
+        .then(() => getBook(bookId))
       })
   } else {
     fetch(userURL + 6)
@@ -101,7 +101,7 @@ function toggleBookLike(bookId, userList, likeBtn) {
           })
         })
         .then(res=>res.json())
-        .then(getBook(bookId))
+        .then(() => getBook(bookId))
       })
   }
 }

@@ -76,6 +76,10 @@
         {
           "id": 8,
           "username": "maverick"
+        },
+        {
+          "id": 6,
+          "username": "leem"
         }
       ]
     },
@@ -134,10 +138,6 @@
         {
           "id": 5,
           "username": "feels-like-summer"
-        },
-        {
-          "id": 6,
-          "username": "leem"
         }
       ]
     },
@@ -214,10 +214,6 @@
         {
           "id": 10,
           "username": "macejkovic"
-        },
-        {
-          "id": 6,
-          "username": "leem"
         }
       ]
     }
